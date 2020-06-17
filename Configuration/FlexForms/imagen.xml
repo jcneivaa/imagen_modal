@@ -1,0 +1,45 @@
+<T3DataStructure>
+    <meta>
+        <langDisable>1</langDisable>
+    </meta>
+    <sheets>
+        <sDEF>
+            <ROOT>
+                <TCEforms>
+                    <sheetTitle>General</sheetTitle>
+                    <sheetDescription>General Description</sheetDescription>
+                </TCEforms>
+                <type>array</type>
+                <el>
+                    <settings.titulo>
+                        <TCEforms>
+                            <exclude>1</exclude>
+                            <label>LLL:EXT:imagen_modal/Resources/Private/Language/locallang_plugin_imagen.xlf:plugin_imagen_titulo</label>
+                            <config>
+                                <type>input</type>
+                            </config>
+                        </TCEforms>
+                    </settings.titulo>  
+                    <settings.url_imagen>
+                        <TCEforms>
+                            <exclude>1</exclude>
+                            <label>LLL:EXT:imagen_modal/Resources/Private/Language/locallang_plugin_imagen.xlf:plugin_imagen_url</label>
+                            <config>
+                                <type>input</type>
+                            </config>
+                        </TCEforms>
+                    </settings.url_imagen>  
+                    <settings.url>
+                        <TCEforms>
+                            <exclude>1</exclude>
+                            <label>LLL:EXT:imagen_modal/Resources/Private/Language/locallang_plugin_imagen.xlf:plugin_url</label>
+                            <config>
+                                <type>input</type>
+                            </config>
+                        </TCEforms>
+                    </settings.url>  
+                </el>
+            </ROOT>
+        </sDEF>
+    </sheets>
+</T3DataStructure>

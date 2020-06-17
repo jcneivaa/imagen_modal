@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2020-06-17T18:28:29Z" product-name="imagen_modal">
+		<header/>
+		<body>
+			<trans-unit id="tx_imagenmodal_domain_model_imagen">
+				<source>Imagen</source>
+			</trans-unit>
+			<trans-unit id="tx_imagenmodal_domain_model_imagen.url_imagen">
+				<source>Url Imagen</source>
+			</trans-unit>
+			<trans-unit id="tx_imagenmodal_domain_model_imagen.url_link">
+				<source>Url Link</source>
+			</trans-unit>
+			<trans-unit id="tx_imagen_modal_imagenmodal.name">
+				<source>Imagen Modal</source>
+			</trans-unit>
+			<trans-unit id="tx_imagen_modal_imagenmodal.description">
+				<source></source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

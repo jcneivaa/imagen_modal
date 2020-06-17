@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-10-24T06:35:13Z" product-name="video_modal">
+		<header/>
+		<body>
+			<trans-unit id="plugin_imagen_url">
+				<source>Url de la imagen</source>
+			</trans-unit>
+			<trans-unit id="plugin_url">
+				<source>Url del sitio externo</source>
+			</trans-unit>
+			<trans-unit id="plugin_imagen_titulo">
+				<source>Titulo de la imagen</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>
